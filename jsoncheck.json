@@ -1,15 +1,15 @@
 {
     "success": {
         "os": "linux",
-        "version_name": "1.2.95",
-        "version_code": "1.2.95",
-        "build_type": "desktop",
-        "store": "https://dl.commchat.com/releases/linux/latest/CommChat-1.2.9.snap",
+        "version_name": "1.2.99.24",
+        "version_code": "1.2.99.24",
+        "build_type": "desktop-agent",
+        "store": "https://dl.commchat.com/releases/linux/latest/CommChatSetup-Agent_1.2.99-alpha.24.deb",
         "is_store_link": false,
-        "minversion_code": "1.2.95",
-        "android_min_version": "2.6.0",
-        "ios_min_version": "2.8.0",
-        "db_version": 4,
+        "minversion_code": "1.2.99.24",
+        "android_min_version": "0.0.0",
+        "ios_min_version": "0.0.0",
+        "db_version": 3,
         "changelog": ""
     }
 }
